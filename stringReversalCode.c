@@ -6,8 +6,8 @@
 
 int main()
 { 
-  	char inputString[100];  //Variable for finalized input string
-  	char testString[100];   //Variable for input string before adding a space to the beggining. 
+  	char inputString[200];  //Variable for finalized input string
+  	char testString[200];   //Variable for input string before adding a space to the beggining. 
   	int pos, i, j, len, startIndex, endIndex;   // Simple Variable initializations
   	char articleA[] = " a ";    //Variable for article "a"
   	char articleAn[] = " an ";  //Variable for article "an"
